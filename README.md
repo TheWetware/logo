@@ -20,3 +20,25 @@ logo of book
 
   #FF8111
   #603001
+
+  
+### css 
+    p {
+       font-family: 'HKGroteskRegular';
+       font-weight: normal;
+       font-style: normal;
+    }
+
+
+### html
+
+    <link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/hk-grotesk" type="text/css"/>
+    
+    
+# Logo
+
+## 1
+![1/cover.png](1/cover.png)
+
+## 2
+![2/cover.png](2/cover.png)
